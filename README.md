@@ -9,5 +9,5 @@
 - CSS (Flexbox, Grid)
 - JavaScript
 
-##پروژه‌ها
+## پروژه‌ها
 🔗 Taskyar - Task Management Landing Page
